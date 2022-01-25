@@ -114,6 +114,8 @@ public class mainFrame extends javax.swing.JFrame {
             case 4: title.setText("Zu langsam"); break;
         }
         */
+        
+        //Ich mag Kuchen
                
         
     }//GEN-LAST:event_btn_neinMouseEntered
